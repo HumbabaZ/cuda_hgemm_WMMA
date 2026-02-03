@@ -1,4 +1,4 @@
-This is the for the course project _Tensor Core Accelerated Skinning_ for Highly Parallel Programming of GPUs of TU Dresden. The purpose of the project is to find out and try
+This is for the course project _Tensor Core Accelerated Skinning_ for Highly Parallel Programming of GPUs of TU Dresden. The purpose of the project is to find out and try
 ways to profil tensor throughput for SMPL — A Skinned Multi-Person Linear Model.  
 Check https://github.com/FEARBEFORETHEMARCHOFFLAMES/WMMATensor.git for the other part of the implementation.
 # CUDA HGEMM
